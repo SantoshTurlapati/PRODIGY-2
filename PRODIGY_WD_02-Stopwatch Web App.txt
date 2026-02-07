@@ -1,0 +1,36 @@
+# PRODIGY_WD_02 – Stopwatch Web Application
+
+## 📌 Task Description
+This project is a **Stopwatch Web Application** developed using **HTML, CSS, and JavaScript**.  
+The application allows users to accurately measure time intervals with features such as **Start, Pause, Reset, and Lap time recording**.
+
+## 🚀 Features
+- Start the stopwatch
+- Pause the stopwatch
+- Reset the stopwatch
+- Record lap times
+- Simple and responsive user interface
+
+## 🛠 Technologies Used
+- HTML – Structure of the web page
+- CSS – Styling and layout
+- JavaScript – Stopwatch functionality and event handling
+
+## ▶️ How to Run
+1. Download or clone the repository
+2. Open the `stopwatch.html` file in any web browser
+3. Use the buttons to start, pause, reset, and record laps
+
+## 📷 Output
+The application displays a digital stopwatch interface where users can track elapsed time and save lap records.
+
+## 📚 Learning Outcome
+Through this project, I learned how to:
+- Use JavaScript timing functions (`setInterval`, `clearInterval`)
+- Handle DOM manipulation
+- Build interactive web applications
+
+---
+
+**Internship:** Prodigy InfoTech Web Development Internship  
+**Task:** Task-02 – Stopwatch Web Application
